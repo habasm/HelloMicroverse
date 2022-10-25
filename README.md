@@ -15,20 +15,6 @@
 
 Full setup of the project will be available soon
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
 👤 Habitamu Asimare
