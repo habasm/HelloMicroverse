@@ -12,8 +12,11 @@
 
 
 ## Getting Started
-
-Full setup of the project will be available soon
+To get a local copy up and running:
+1. Clone this repository or download the Zip folder:
+**``git clone repo [<link>](https://github.com/habasm/HelloMicroverse.git)``**
+1. Navigate to the location of the folder in your machine:
+**``you@your-Pc-name:~$ cd <folder>``**
 
 ## Authors
 
